@@ -3,7 +3,7 @@
 
 JS Hero is musical browser game where the player must time their song playing, through keypresses 'A', 'S', 'D', 'F', 'G', to hit the correct note at the correct time.  Players receive points upon a successful note hit, see their note streak, and a couple other features.  This app was created using Three.js and JavaScript in under a one week deadline.
 
-![game-screenshot](https://raw.githubusercontent.com/jyschwrtz/guitar-hero-design/master/photos/game_play.png)
+![game-screenshot](https://raw.githubusercontent.com/jhedev96/JS-Hero/master/game_play.png)
 
 ## Features
 * Play a song on the keyboard (guitar) by pressing keys in time with the music
