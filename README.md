@@ -45,7 +45,7 @@ Below is a code snippet of the song creation.  Each note object has a measure (m
 #### Instructions Modal
 The instructions on how to play can be seen below:
 
-![instructions](https://raw.githubusercontent.com/jyschwrtz/guitar-hero-design/master/photos/instructions.png)
+![instructions](https://raw.githubusercontent.com/jhedev96/JS-Hero/master/instructions.png)
 
 ## Project Design
 JS Hero was implemented based on the popular console game, Guitar Hero.  Due to a short time-frame, the focus was to get a single song playable and also learn the basics of Three.js in the process, while writing code using OOP design.
@@ -95,7 +95,7 @@ Three.js library was used for all the 3D animation throughout the game.
 Amazon Web Services S3 was used to host the song file.
 
 ## Additional Resources
-* [Proposal](https://github.com/jyschwrtz/JS-Hero/blob/master/docs/proposal.md)
+* [Proposal](https://github.com/jhedev96/JS-Hero/blob/master/docs/proposal.md)
 
 ## Future features
 * More songs
